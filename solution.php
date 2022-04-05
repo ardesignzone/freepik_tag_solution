@@ -4,7 +4,7 @@
 
 <?php 
 
-$str = "Banner banner Pattern Poster Label Cover Texture Paper Beauty Typography Layout Packaging Luxury Art Text Advertising Sign Silver Makeup Elegant Golden Branding Product Clean Symbol Skin Brand Care Healthcare Cream Elements Container Solution Shiny Facial Skin care Collection Commercial Hygiene Treatment";
+$str = "man mockup t shirt mockup man t shirt t shirt t shirt template print mockup clothing mockup white t shirt mockup template t shirt print mockup white clothes men clothing white mockup male man print templates clothes white man white template cotton print template white";
 
 $lowerCaseString = strtolower($str);
 
